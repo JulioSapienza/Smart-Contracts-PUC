@@ -1,6 +1,6 @@
 /* 
 SPDX-License-Identifier: MIT
-Curso: Programacçaão de Smart Contracts - PUC/SP
+Curso: Programação de Smart Contracts - PUC/SP
 Avaliação 2
 Requisitos: Constructor, Funções transfer, evento e IF
 Contrato de Locação
